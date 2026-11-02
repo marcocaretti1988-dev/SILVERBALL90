@@ -1,0 +1,17 @@
+{
+  "name": "Silver Ball '94",
+  "short_name": "Silver Ball",
+  "description": "Flipper arcade anni '90 con 15 tavoli, musica chiptune ed effetti.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08070d",
+  "theme_color": "#08070d",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
